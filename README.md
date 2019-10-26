@@ -14,8 +14,8 @@ A custom LEGO® creation to remote control, via an Android App, a garage model w
 
 _Note_: This make project is for private use only.
 
-<ADD garage25-p)
-<ADD garage25-ps)
+![garage25-p](https://user-images.githubusercontent.com/47274144/67616597-2ad4d300-f7db-11e9-81d6-f7be962aa5c2.png)
+![garage25-ps](https://user-images.githubusercontent.com/47274144/67616607-3fb16680-f7db-11e9-9293-969edb57007d.png)
 
 ### Outlook
 This is the first version, which had the main goal to explore remote control the creation using Android App.
@@ -92,7 +92,7 @@ After successful connecttion, the data displayed is updated, i.e. garage open an
 Press the button Close to close the garage or Off to turn the outdoor light off.
 The outdoor light brightness can be set via slider. When changing the slider, confirm by pressing button Brightness which will change the brightness.
 
-<ADD garage25-a)
+![garage25-a](https://user-images.githubusercontent.com/47274144/67616605-3d4f0c80-f7db-11e9-8d1d-de942ea61180.png)
 
 ### LEGO Construction
 The creation is built using mix of LEGO classic & technic bricks. No modifications to the bricks made.
@@ -108,15 +108,10 @@ The back of the controller-house enables to provode power, either 9V DC or 5 USB
 
 Left towards the front of the garage, the green push-button with LED is placed to enable open / close of the roller door.
 
-
-Soldering for the LEDs.
-
-
 As mentioned, there free space on the baseplate to enhance this model by for example a gas stationMore to come ...
 
 ### Wiring
-<ADD garage25-c)
-
+![garage25-c](https://user-images.githubusercontent.com/47274144/67616603-36c09500-f7db-11e9-82ed-0fe3847762fd.png)
 ```
 Servo (Hitec HS-311)=Microcontroller
 Signal=D10
