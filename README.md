@@ -1,5 +1,5 @@
-# make-project-garage25
-A custom LEGO® creation to remote control, via an Android App, a garage model with a microcontroller and connected servo motor, actuators and indicators.
+# make-garage25
+This make project is a custom LEGO® creation to remote control, via an Android App, a garage model with a microcontroller and connected servo motor, actuators and indicators.
 (LEGO® is a trademark of the LEGO Group)
 
 # Objectives
